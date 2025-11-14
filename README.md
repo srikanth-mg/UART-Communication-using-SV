@@ -23,6 +23,10 @@ This project implements a UART (Universal Asynchronous Receiver/Transmitter) com
 - `tb_uart_top.v` – Testbench for simulation
 - `README.md` – This documentation
 
-## Author
-**Srikanth Muthuvel Ganthimathi**  
-🔗 [LinkedIn](https://www.linkedin.com/in/srikanth9503/)
+## 👨‍💻 Author
+Srikanth Muthuvel Ganthimathi
+
+## 📜 License
+
+This project is for educational and research purposes.
+You may modify or extend the design freely.
